@@ -8,9 +8,9 @@ Decision-makers at Pyber require an analysis of ride-sharing data according to c
 
 ## Pyber Analysis Results
 The analysis revealed the following:
-- Urban cities have the largest number of rides, total drivers and total fares. This is followed by suburban and rural city types, respectively (ihttps://github.com/pmoores/PyBer_Analysis/blob/main/analysis/Pyber_summary_DF.png)
-- Average fare per ride and average fare per driver were highest in rural areas, followed by suburban and urban, respectively.
-- Total fares increase in late-February 2019 for all city types and then begin to lower again starting in April 2019 (https://github.com/pmoores/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+- Urban cities have the largest number of rides, total drivers and total fares. This is followed by suburban and rural city types, respectively (https://github.com/pmoores/PyBer_Analysis/blob/main/analysis/Pyber_summary_DF.png)
+- Average fare per ride and average fare per driver were highest in rural areas, followed by suburban and urban, respectively
+- Total fares increase in late-February 2019 for all city types and then begin to lower again starting in April 2019 (https://github.com/pmoores/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png).
 
 
 ## Pyber Analysis Summary
